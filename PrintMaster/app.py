@@ -11,6 +11,7 @@ import string_prints as st
 import collections_prints as co
 import loop_prints as lp
 import function_prints as fu
+import misc_prints as mi
 def run():
     print("=== PrintMaster Demo === \n")
     ar.run()
@@ -19,6 +20,7 @@ def run():
     co.run()
     lp.run()
     fu.run()
+    mi.run()
     print("=== End of Demo ===")
 
 if __name__ == "__main__":
