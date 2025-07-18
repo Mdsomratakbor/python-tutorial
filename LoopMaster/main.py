@@ -11,6 +11,7 @@ def run_all():
     while_loops.run()
     loop_controls.run()
     nested_loops.run()
+    nested_loops.print_X()
     loop_collections.run()
     shape_print.run()
 if __name__ == "__main__":
