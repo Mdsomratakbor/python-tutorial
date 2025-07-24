@@ -18,7 +18,7 @@ def run():
     cols = len(matrix[0])
     
     for i in range(cols):
-        new_row =[] 
+        new_row =[]  
         for j in range(rows):
             new_row.append(matrix[j][i])
         
